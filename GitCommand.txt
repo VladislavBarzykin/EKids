@@ -1,0 +1,6 @@
+git clone
+ls
+cd
+mkdir
+git branch
+git checkout
