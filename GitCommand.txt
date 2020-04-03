@@ -4,7 +4,7 @@ cd
 mkdir
 git branch
 git checkout
-git add 
+git add .
 git restore --staged
 git commit
 git push
