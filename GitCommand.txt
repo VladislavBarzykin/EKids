@@ -4,3 +4,8 @@ cd
 mkdir
 git branch
 git checkout
+git add 
+git restore --staged
+git commit
+git push
+git pull
