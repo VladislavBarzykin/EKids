@@ -4,7 +4,7 @@ cd
 mkdir
 git branch
 git checkout
-git add FileName
+git add .
 git restore --staged
 git commit
 git push
